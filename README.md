@@ -21,12 +21,12 @@ Kısıtlar şöyleydi:
 Mesela bu dille (cca-scyaml) bir yürüyen merdiven otomasyonu yapalım:
 
     - Sistem çalışıyor:
-        - Merdivenin başında nesne var -> Merdiven çalış, 1 çıkımlık + 5 sn
+        - Merdivenin başında nesne var -> Merdiven çalış, 1 tur + 5 sn
 
 Bu kadar. 
 
 
-Burada "Sistem" adında bir nesne var, "çalışıyor" ise altında girintilenmiş işleri yapıyor. Bir diğer nesne "Merdivenin başında nesne" isimli dedektör. Eğer "var" diyorsa sıradaki işe geçilir. Sıradaki işin nesnesinin adı "Merdiven", buna "çalış" sinyalini gönderiyoruz, parametre olarak da "1 çıkımlık + 5 sn" veriyoruz.
+Burada "Sistem" adında bir nesne var, "çalışıyor" ise altında girintilenmiş işleri yapıyor. Bir diğer nesne "Merdivenin başında nesne" isimli dedektör. Eğer "var" diyorsa sıradaki işe geçilir. Sıradaki işin nesnesinin adı "Merdiven", buna "çalış" sinyalini gönderiyoruz, parametre olarak da "1 tur + 5 sn" veriyoruz.
 
 
 Derleyici özel kelimeleri yakalıyor, yapılacakları bu kelimelere göre planlıyor. Kullanıcı bu özel kelimeleri bilmek zorunda. 
