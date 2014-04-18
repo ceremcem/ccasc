@@ -1,0 +1,12 @@
+- Beyaz Havlu:
+    - Ön yıkama:
+        - m608 çalış, 5 sn
+        - 75 sn bekle -> m620 çalış, 10 sn
+
+    - Ana yıkama:
+        - m630 çalış, 3 sn
+        - 15 sn bekle -> m622 çalış, 8 sn
+        - 80 sn bekle -> m624 çalış, 7 sn
+
+    - Durulama:
+        - m602 çalış, 5 sn
