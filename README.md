@@ -4,9 +4,13 @@ Otomasyon algoritması yazarken Türkçe cümle kurar gibi algoritma tanımlamay
 
 Ayrıntılar için (bkz. [wiki](https://github.com/ceremcem/ccasc-yaml/wiki)) 
 
+### Bağımlılıklar: 
 
-Çalıştırmak için: 
-================
+http://pyyaml.org/wiki/PyYAML
+http://pythonhosted.org/Pyro4/
+
+### Çalıştırmak için: 
+
 ```
 python test-ccasc-server.py
 ```
