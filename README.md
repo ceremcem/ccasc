@@ -6,8 +6,8 @@ Ayrıntılar için (bkz. [wiki](https://github.com/ceremcem/ccasc-yaml/wiki))
 
 ### Bağımlılıklar: 
 
-http://pyyaml.org/wiki/PyYAML
-http://pythonhosted.org/Pyro4/
+1. http://pyyaml.org/wiki/PyYAML
+2. http://pythonhosted.org/Pyro4/
 
 ### Çalıştırmak için: 
 
