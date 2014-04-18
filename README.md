@@ -1,4 +1,4 @@
-ccasc-yaml
+ccasc
 ==========
 Otomasyon algoritması yazarken Türkçe cümle kurar gibi algoritma tanımlamaya yarayan özel amaçlı bir dildir. 
 
